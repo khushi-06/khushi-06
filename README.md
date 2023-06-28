@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Gupta</h1>
 <h3 align="center">A passionate Graphic Designer and frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Bootstrap and react**
+- 🌱 I’m currently learning **Jenkins and other Automation Tools**
 
 - 👨‍💻 All of my projects are available at [https://tinyurl.com/m896mbjm](https://tinyurl.com/m896mbjm)
 
