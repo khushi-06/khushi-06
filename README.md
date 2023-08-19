@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushi Gupta</h1>
-<h3 align="center">A passionate Graphic Designer and frontend developer from India</h3>
+<h3 align="center">A passionate UI/UX Designer and Frontend-React developer from India</h3>
 
 - 🌱 I’m currently learning **Jenkins and other Automation Tools**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **guptakhushi622003@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/2n7nvwrx](https://tinyurl.com/2n7nvwrx)
+- 📄 Know about my experiences https://drive.google.com/file/d/1p4GzWH8a9AabLQ9bJ-vN4xKC_rdA_NXW/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
